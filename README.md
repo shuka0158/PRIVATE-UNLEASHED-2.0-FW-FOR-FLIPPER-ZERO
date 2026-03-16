@@ -26,6 +26,8 @@ No password is required for this installation
 Ensure all files are placed in their correct directories before proceeding with firmware installation
 Verify file paths carefully to ensure proper functionality
 
+                          ATTENTION!!!
+You NEED to put it in DFU mode befor flashing "rimware bypass file"!
 -----------------------------------------------------------------------------------------------------------------------------
 
 BY MY PERSONAL TESTS [User: Heisenberg]: 
