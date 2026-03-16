@@ -25,3 +25,15 @@ Notes
 No password is required for this installation
 Ensure all files are placed in their correct directories before proceeding with firmware installation
 Verify file paths carefully to ensure proper functionality
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+BY MY PERSONAL TESTS [User: Heisenberg]: 
+Sub-Ghz; Apps Menu; Clock; BadUSB; GPIO; and Settings are worcking perfectly,
+
+NFC and RFID crushes on open.
+
+{I am new to that too, but any questions?: my Discord: shuka0158}
+
+Good luck fo everone in exploring something new :)
+
