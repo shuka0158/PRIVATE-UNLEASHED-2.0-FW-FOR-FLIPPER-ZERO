@@ -35,5 +35,5 @@ NFC and RFID crushes on open.
 
 {I am new to that too, but any questions?: my Discord: shuka0158}
 
-Good luck fo everone in exploring something new :)
+Good luck for everone in exploring something new :)
 
