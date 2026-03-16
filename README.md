@@ -1,4 +1,4 @@
-# PRIVATE-UNLEASHED-2.0-FW-FOR-FLIPPER-ZERO
+# PRIVATE-UNLEASHED-2.0-FW-FOR-FLIPPER-ZERO.
 no password needed
 
 Installation Guide
