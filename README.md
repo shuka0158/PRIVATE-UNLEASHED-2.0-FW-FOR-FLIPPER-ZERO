@@ -29,7 +29,7 @@ Verify file paths carefully to ensure proper functionality
 (I dont know why, but: in my case External CC1101 Module is NOT supported {Flipper not recognizes it.})
 
                           ATTENTION!!!
-You NEED to put it in DFU mode befor flashing "rimware bypass file"!
+You NEED to put it in DFU mode befor flashing "firmware bypass file"!
 -----------------------------------------------------------------------------------------------------------------------------
 
 BY MY PERSONAL TESTS [User: Heisenberg]: 
