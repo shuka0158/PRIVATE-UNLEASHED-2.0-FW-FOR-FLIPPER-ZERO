@@ -24,7 +24,8 @@ This file should be installed last, after all other files are in place
 Notes
 No password is required for this installation
 Ensure all files are placed in their correct directories before proceeding with firmware installation
-Verify file paths carefully to ensure proper functionality
+Verify file paths carefully to ensure proper functionality.
+(if last step didnot worck: put your flipper in DFU mode using settings menu or button combinations, and flash DFU file using Qflipper app)
 
 (I dont know why, but: in my case External CC1101 Module is NOT supported {Flipper not recognizes it.})
 
