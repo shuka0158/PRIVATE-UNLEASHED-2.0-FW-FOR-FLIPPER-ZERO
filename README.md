@@ -26,6 +26,8 @@ No password is required for this installation
 Ensure all files are placed in their correct directories before proceeding with firmware installation
 Verify file paths carefully to ensure proper functionality
 
+(I dont know why, but: in my case External CC1101 Module is NOT supported {Flipper not recognizes it.})
+
                           ATTENTION!!!
 You NEED to put it in DFU mode befor flashing "rimware bypass file"!
 -----------------------------------------------------------------------------------------------------------------------------
