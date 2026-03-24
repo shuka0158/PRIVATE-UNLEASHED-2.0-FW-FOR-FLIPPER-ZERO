@@ -42,3 +42,9 @@ NFC and RFID crushes on open.
 
 Good luck for everone in exploring something new :)
 
+
+
+
+
+Don't forget to star the repo.
+
