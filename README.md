@@ -9,7 +9,9 @@ Required Files and Locations
 SD Card Root Directory:
 
 key.fz - Place this file in the root directory of the SD card
-Sub-GHz Assets Folder: Navigate to: SD Card/subghz/assets/
+Sub-GHz Assets Folder.
+
+Navigate to: SD Card/subghz/assets/
 
 Place the following files in this location:
 
